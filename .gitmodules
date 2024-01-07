@@ -1,0 +1,3 @@
+[submodule "ripozi-app"]
+	path = ripozi-app
+	url = ./ripozi-app/.git
